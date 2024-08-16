@@ -2,9 +2,8 @@
 Para este apartado económico, resulta interesante conocer los diferentes sectores de industrias que sustentan a la economía de las diferentes provincias, reflejando la diversidad y riqueza productiva del país.
 En este sentido, la presente sección ofrecce una descripción de la principal actividad económica de cada provincia, basado en el Valor Agregado Bruto (VAB) provincial, permitiendo apreciar las dinámicas económicas locales que aportan al PIB del país. 
 
-El Banco Central del Ecuador en las cuentas nacionales anuales nos proporciona un conjunto de datos del
-VAB por industria de cada provincia. Mismo que puede visualizarse en la siguiente [Base](VAB_2022.csv) 
-
+El Banco Central del Ecuador en las cuentas nacionales anuales nos proporciona un conjunto de datos del VAB por industria de cada provincia. Mismo que puede visualizarse en la siguiente [Base](VAB_2022.csv)
+ 
 **Valor Agregado Bruto por provincia**
 
 El VAB es una medida de contribución al PIB, se constituye como el valor producido en  una industria o sector, menos el consumo intermedio. Entonces, el VAB provincial expresa cuánto contribuye una provincia a la economía nacional, reflejado en el PIB, a través de sus actividades económicas principales. En el 2022, las 5 principales provincias que más contribuyeron al VAB del país fueron:
