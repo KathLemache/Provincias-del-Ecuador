@@ -19,9 +19,11 @@ El VAB es una medida de contribución al PIB, se constituye como el valor produc
 
 **5.** Manabi (4.62 %)
 
+
 Por otra parte, en los últimos lugares estuvieron:
 
-**20.** Carchi (0.51)
+
+**20.** Carchi (0.51 %)
 
 **21.** Morona Santiago (0.43 %)
 
