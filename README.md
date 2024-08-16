@@ -7,18 +7,18 @@ Al almacenar información de manera organizada, se facilita el *análisis y la v
 
 En el presente repositorio se encontra lo siguiente:
 
-**1. Introducción**\
+**1. Introducción** \
 - Explicación sobre las provincias y datos curiosos económicos, sociales (culturales), y ambientales.
 
-**2. Ámbito económico**\
-- Datos poblacionales de cada provincia.\
+**2. Ámbito económico** \
+- Datos poblacionales de cada provincia. \
 * Actividades económicas de cada provincia.
 
-**3. Ámbito social y cultural**\
-- Etnias.\
+**3. Ámbito social y cultural** \
+- Etnias. \
 * Prácticas culturales y Festividades.
 
-**4. Ámbito ambiental**\
+**4. Ámbito ambiental** \
 - Área protegidas o Atractivos naturales más visitados
 
 ![image](https://github.com/user-attachments/assets/045d91af-06ef-4ef3-a63d-a6129562253e)
