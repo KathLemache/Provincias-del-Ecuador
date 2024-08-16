@@ -4,7 +4,7 @@ El patrimonio inmaterial de Ecuador es un tesoro invaluable que refleja la diver
 
 Conocer estas manifestaciones no solo nos conecta con nuestras raíces, sino que también resalta la importancia de preservar y valorar la herencia cultural que define a Ecuador. Puesto que, estas manifestaciones culturales representan no solo el legado de las comunidades que las mantienen vivas, sino también la identidad colectiva del país.
 
-##La Mama negra##
+**La Mama negra**
 
 La Fiesta de la Mama Negra, también conocida como la Fiesta de la Virgen de la Merced, es una de las celebraciones más emblemáticas de Latacunga, en la provincia de ** Cotopaxi**.
 
