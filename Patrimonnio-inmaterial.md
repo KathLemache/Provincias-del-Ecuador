@@ -1,4 +1,4 @@
-#Patrimonios Inmateriales
+# Patrimonios Inmateriales
 
 El patrimonio inmaterial de Ecuador es un tesoro invaluable que refleja la diversidad cultural y la riqueza histórica de sus provincias. Cada provincia del país concibe una gama de festividades y manifestaciones culturales, transmitidas de generación en generación, de carga simbólica y que otorgan identidad a sus habitantes. No obstante, en este apartado, se presentan aquellas celebraciones y tradiciones que, por su relevancia y singularidad, han sido reconocidas oficialmente como Patrimonios Inmateriales de la Nación.
 
