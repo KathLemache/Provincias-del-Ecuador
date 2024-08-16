@@ -10,17 +10,25 @@ El Banco Central del Ecuador en las cuentas nacionales anuales nos proporciona u
 El VAB es una medida de contribución al PIB, se constituye como el valor producido en  una industria o sector, menos el consumo intermedio. Entonces, el VAB provincial expresa cuánto contribuye una provincia a la economía nacional, reflejado en el PIB, a través de sus actividades económicas principales. En el 2022, las 5 principales provincias que más contribuyeron al VAB del país fueron:
 
 **1.** Guayas (29.44 %) 
+
 **2.** Pichincha (24.52 %)
+
 **3.** Orellana (6.17 %)
+
 **4.** Azuay (4.19 %)
+
 **5.** Manabi (4.62 %)
 
 Por otra parte, en los últimos lugares estuvieron:
 
 **20.** Carchi (0.51)
+
 **21.** Morona Santiago (0.43 %)
+
 **22.** Napo (0.43 %)
+
 **23.** Bolivar (0.40 %)
+
 **24.** Galápagos (0.20 %)
 
 Estos datos destacan la centralización de economía ecuatoriana en las provincias de Guayas y Pichincha, que entre ambas suman más del 50 % del VAB nacional. 
