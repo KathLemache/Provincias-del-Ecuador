@@ -19,6 +19,6 @@ En el presente repositorio se encontra lo siguiente:
 * Prácticas culturales y Festividades.
 
 **4. Ámbito ambiental**\
--Área protegidas o Atractivos naturales más visitados
+- Área protegidas o Atractivos naturales más visitados
 
 ![image](https://github.com/user-attachments/assets/045d91af-06ef-4ef3-a63d-a6129562253e)
