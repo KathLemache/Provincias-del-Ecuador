@@ -11,11 +11,11 @@ En el presente repositorio se encontra lo siguiente:
 Explicación sobre las provincias y datos curiosos económicos, sociales (culturales), y ambientales.
 
 **2. Ámbito económico**\
-Datos poblacionales de cada provincia.
+Datos poblacionales de cada provincia.\
 Actividades económicas de cada provincia.
 
 **3. Ámbito social y cultural**\
-Etnias.
+Etnias.\
 Prácticas culturales y Festividades.
 
 **4. Ámbito ambiental**\
