@@ -74,6 +74,6 @@ La Reserva Ecológica *Manglares de **Churute*** se ubica en la provincia de ***
 
 El Bosque Protector **El Paraíso**, en la provincia de ***Santo Domingo de los Tsáchilas***, Ecuador, es una zona de 2,260 hectáreas que protege un bosque húmedo tropical de gran biodiversidad. Establecido en 1999, el área abarca altitudes de 600 a 2,000 metros sobre el nivel del mar. Su rica fauna incluye monos, pumas, y una variedad de aves. El bosque está atravesado por varios ríos y arroyos, con precipitaciones anuales de 2,500 mm y temperaturas que varían entre 20 y 26°C. **El Paraíso** es un sitio importante para la investigación científica y la conservación, así como para el ecoturismo y la educación ambiental, proporcionando un espacio natural valioso en la región.
 
-+ ***Zamora-Chinchipe***
++ ***Zamora Chinchipe***
 
 La Reserva Biológica **San Rafael**, en la provincia de ***Zamora-Chinchipe***, Ecuador, se extiende por 45,295 hectáreas de selva tropical amazónica. Con altitudes que oscilan entre 400 y 1,800 metros sobre el nivel del mar, la reserva es conocida por su biodiversidad, incluyendo especies como el jaguar y el delfín de río. Establecida en 1987, la reserva cuenta con precipitaciones anuales que alcanzan hasta 3,000 mm y temperaturas promedio de 26°C. **San Rafael** es un área vital para la conservación de la flora y fauna amazónica y para el estudio de ecosistemas tropicales. Su rica biodiversidad y sus paisajes naturales ofrecen oportunidades para el ecoturismo y la investigación científica.
