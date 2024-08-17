@@ -7,10 +7,11 @@ Al almacenar información de manera organizada, se facilita el *análisis y la v
 
 En el presente repositorio está dedicado a las provincias del Ecuador, como un espacio donde se explorará la riqueza y diversidad que caracteriza a cada rincón de nuestro país. Aquí se compartiran datos curiosos y relevantes en tres ámbitos clave: económico, social-cultural y ambiental. A través de esta recopilación, se busca ofrecer una mirada profunda y fascinante sobre cómo las actividades económicas, las manifestaciones culturales y aspectos ambientales se entrelazan para formar la identidad única de cada provincia y del Ecuador.
 
-Primero te invitamos a que conozcas brevemente sobre las [pronvicias](introduccion.md) que conforman el Ecuador. A continuación, información relevante y curiosa sobre nuestras provincias.
+Primero te invitamos a que conozcas brevemente sobre las [Provincias](introduccion.md) que conforman el Ecuador. A continuación, información relevante y curiosa sobre nuestras provincias.
 
 **1. Ámbito económico** 
-- Datos poblacionales. 
+- Datos poblacionales.
+
 - [Actividades económicas](Actividades-económicas.md)
 
 **2. Ámbito socio- cultural** 
@@ -18,6 +19,6 @@ Primero te invitamos a que conozcas brevemente sobre las [pronvicias](introducci
 - [Patrimonio cultural inmaterial](Patrimonio.inmaterial.md)
 
 **3. Ámbito ambiental** 
-- Área protegidas o Atractivos naturales más visitados
+- [Área protegidas o Atractivos naturales más visitados](ambiental.md)
 
 ![image](https://github.com/user-attachments/assets/045d91af-06ef-4ef3-a63d-a6129562253e)
