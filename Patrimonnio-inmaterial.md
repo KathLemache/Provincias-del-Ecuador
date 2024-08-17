@@ -12,3 +12,18 @@ La celebración se lleva a cabo en dos momentos clave del año, cada uno con un 
 
 [Conoce más sobre esta festividad](https://www.youtube.com/watch?v=JqnFYO7P5-g)
 
+**La fiesta de las flores y frutas**
+
+La Fiesta de la Fruta y de las Flores, es una celebración emblemática en Ambato, provincia de Tungurahua. Esta festividad significativa y querida por sus habitantes, fue reconocida como Patrimonio Inmaterial en el año 2009. Tal evento se realiza entre febrero y marzo, y el mismo está profundamente arraigado en la identidad cultural de la ciudad. La fiesta se desarrolla en torno a cuatro momentos clave: El Pregón y la elección de la Reina, la Bendición de las Flores, Frutas y el Pan, el Desfile de la Confraternidad y La Ronda Nocturnal.
+
+La festividad, que dura cuatro días, da inicio con el pregón recorre las principales calles de la ciudad. Aunque la fiesta coincide con el Carnaval, su esencia es completamente distinta, puesto que está enfocada en resaltar las tradiciones mestizas y urbanas de Ambato. Ésta expresa la unión social y familiar que ha sido transmitida de generación en generación, fortaleciendo el sentido de pertenencia y orgullo en los ambateños, lo mismo que se refleja con la dedicación a los preparativos con muchos meses de anticipación. 
+
+[Conoce más sobre esta festividad](https://www.youtube.com/watch?v=esEg5ogdJvI)
+
+**El Pase del Niño Viajero**
+
+El Pase del Niño Viajero es la festividad religiosa más destacada de la provincia de Azuay, especialmente en la ciudad de Cuenca. Se celebra cada 24 de diciembre con una procesión que atrae a miles de personas, y gira en torno a la imagen del Niño Viajero. 
+
+El Pase del Niño Viajero no solo tiene un profundo significado religioso, sino que también está cargado de simbolismo cultural y social. Involucra a una diversidad de actores, desde priostes y artesanos que confeccionan los trajes meses antes, hasta barrios populares, bandas de pueblo, y asociaciones que colaboran en la organización.
+
+[Conoce más sobre esta festividad](https://www.youtube.com/watch?v=WK4qx3Se88M) 
