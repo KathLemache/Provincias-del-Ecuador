@@ -18,6 +18,6 @@ Primero te invitamos a que conozcas brevemente sobre las [Pronvicias](introducci
 - [Patrimonio cultural inmaterial](Patrimonio.inmaterial.md)
 
 **3. Ámbito ambiental** 
-- Área protegidas o Atractivos naturales más visitados
+- [Área protegidas o Atractivos naturales más visitados](ambiental.md)
 
 ![image](https://github.com/user-attachments/assets/045d91af-06ef-4ef3-a63d-a6129562253e)
