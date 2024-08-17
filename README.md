@@ -10,7 +10,8 @@ En el presente repositorio está dedicado a las provincias del Ecuador, como un 
 Primero te invitamos a que conozcas brevemente sobre las [Provicias](introduccion.md) que conforman el Ecuador. A continuación, información relevante y curiosa sobre nuestras provincias.
 
 **1. Ámbito económico** 
-- Datos poblacionales. 
+- Datos poblacionales.
+
 -[Actividades económicas](Actividades-económicas.md)
 
 **2. Ámbito socio- cultural** 
