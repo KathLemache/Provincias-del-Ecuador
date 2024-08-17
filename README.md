@@ -12,7 +12,7 @@ Primero te invitamos a que conozcas brevemente sobre las [Provicias](introduccio
 **1. Ámbito económico** 
 - Datos poblacionales.
 
--[Actividades económicas](Actividades-económicas.md)
+- [Actividades económicas](Actividades-económicas.md)
 
 **2. Ámbito socio- cultural** 
 - Etnias. 
