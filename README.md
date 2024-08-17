@@ -17,7 +17,7 @@ Primero te invitamos a que conozcas brevemente sobre las [provincias](Introducci
 
 **2. Ámbito socio- cultural** 
 
-- [Patrimonio cultural inmaterial](Patrimonnio.inmaterial.md)
+- [Patrimonio cultural inmaterial](Patrimonnio-inmaterial.md)
 
 **3. Ámbito ambiental** 
 
