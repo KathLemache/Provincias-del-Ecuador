@@ -7,8 +7,8 @@ Al almacenar información de manera organizada, se facilita el *análisis y la v
 
 En el presente repositorio se encontra lo siguiente:
 
-[**1. Introducción**](introduccion.md)  
-- Explicación sobre las provincias y datos curiosos económicos, sociales (culturales), y ambientales.
+**1. Introducción**
+- Aquí podrás conocer datos históricos, geográficos y demográficos de las [provincias del Ecuador](introduccion.md)
 
 **2. Ámbito económico** 
 - Datos poblacionales de cada provincia. 
@@ -18,7 +18,7 @@ En el presente repositorio se encontra lo siguiente:
 - Etnias. 
 * Prácticas culturales y Festividades.
 
-**4. Ámbito ambiental** 
-- Área protegidas o Atractivos naturales más visitados
+**4. Ámbito ambiental**
+- Área protegidas o Atractivos naturales más visitados de las [provincias del Ecuador](ambiental.md)
 
 ![image](https://github.com/user-attachments/assets/045d91af-06ef-4ef3-a63d-a6129562253e)
